@@ -142,25 +142,37 @@ One-click EXE replacing manual Customer Success workflows — dependency orchest
 
 ## `> git log --oneline --graph`
 
-<!--START_SECTION:waka-->
-> 📈 Even though most of my repositories are private, I push code daily.  
-> My contribution graph reflects active work on enterprise-grade systems.
-<!--END_SECTION:waka-->
+> 📈 Most of my repositories are **private** — but I push code daily at KaarTech.  
+> The contribution graph below reflects real, active engineering work.
 
 <div align="center">
 
 <!-- Streak — working ✅ -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=jjohnsamuel21&theme=tokyonight&hide_border=true&background=050810&stroke=00DCFF&ring=7B61FF&fire=00FF9D&currStreakLabel=00DCFF)
 
-<!-- Stats card — profile-summary-cards, independent service from readme-stats -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjohnsamuel21&theme=tokyonight)](https://github.com/jjohnsamuel21)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjohnsamuel21&theme=tokyonight)](https://github.com/jjohnsamuel21)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjohnsamuel21&theme=tokyonight)](https://github.com/jjohnsamuel21)
-
-<!-- Trophies — github-profile-trophy, always reliable -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jjohnsamuel21&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/jjohnsamuel21)
+<!-- Contribution snake — reads contribution graph, works with private repos -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjohnsamuel21/jjohnsamuel21/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjohnsamuel21/jjohnsamuel21/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jjohnsamuel21/jjohnsamuel21/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
+
+---
+
+### 📊 By the Numbers
+
+| Metric | Value |
+|---|---|
+| 💼 Years of Professional Experience | 4.5+ |
+| 🏗️ Enterprise SaaS Products Contributed To | 2 (Digital Maps · Digital Mines) |
+| 🤖 Agentic AI Systems Shipped to Production | 1 (AWS STRANDS + Bedrock + AgentCore) |
+| 🔗 SAP RFC Integrations Built | 2+ (noderfc · pyrfc) |
+| 👥 Engineers Led | 5 (cross-functional squad) |
+| 🏆 Company Awards Received | 5 |
+| ☁️ AWS Services Used in Production | S3 · EC2 · SQS · Bedrock · AgentCore · CloudWatch |
+| 📦 Private Repos (Active) | Most of my work — confidential enterprise code |
 
 ---
 
