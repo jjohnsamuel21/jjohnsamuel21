@@ -149,11 +149,16 @@ One-click EXE replacing manual Customer Success workflows — dependency orchest
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjohnsamuel21&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00DCFF&icon_color=7B61FF&text_color=e2eaf8&ring_color=00DCFF)
+<!-- Streak — working ✅ -->
+![GitHub Streak](https://streak-stats.demolab.com?user=jjohnsamuel21&theme=tokyonight&hide_border=true&background=050810&stroke=00DCFF&ring=7B61FF&fire=00FF9D&currStreakLabel=00DCFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jjohnsamuel21&theme=tokyonight&hide_border=true&background=050810&stroke=00DCFF&ring=7B61FF&fire=00FF9D&currStreakLabel=00DCFF&cache_seconds=1800)
+<!-- Stats card — profile-summary-cards, independent service from readme-stats -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjohnsamuel21&theme=tokyonight)](https://github.com/jjohnsamuel21)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjohnsamuel21&theme=tokyonight)](https://github.com/jjohnsamuel21)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjohnsamuel21&theme=tokyonight)](https://github.com/jjohnsamuel21)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjohnsamuel21&layout=compact&langs_count=8&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00DCFF&text_color=e2eaf8)
+<!-- Trophies — github-profile-trophy, always reliable -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jjohnsamuel21&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/jjohnsamuel21)
 
 </div>
 
