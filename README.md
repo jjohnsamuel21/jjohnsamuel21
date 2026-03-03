@@ -149,11 +149,11 @@ One-click EXE replacing manual Customer Success workflows — dependency orchest
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjohnsamuel21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00DCFF&icon_color=7B61FF&text_color=e2eaf8&ring_color=00DCFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjohnsamuel21&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00DCFF&icon_color=7B61FF&text_color=e2eaf8&ring_color=00DCFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jjohnsamuel21&theme=tokyonight&hide_border=true&background=050810&stroke=00DCFF&ring=7B61FF&fire=00FF9D&currStreakLabel=00DCFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=jjohnsamuel21&theme=tokyonight&hide_border=true&background=050810&stroke=00DCFF&ring=7B61FF&fire=00FF9D&currStreakLabel=00DCFF&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjohnsamuel21&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00DCFF&text_color=e2eaf8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjohnsamuel21&layout=compact&langs_count=8&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00DCFF&text_color=e2eaf8)
 
 </div>
 
